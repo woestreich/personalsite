@@ -31,12 +31,6 @@ While I am very much an amateur in this area, I find joy in the detailed look we
 <br/>
 <br/>
 
-<img src="../img/wilson-1.jpeg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-<sup>A Wilson's storm petrel (Oceanites oceanicus) foraging in a bay of the Western Antarctic Peninsula.</sup>
-
-<br/>
-<br/>
-
 <img src="../img/orca_3.jpeg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 <sup>Killer whales (Orcinus orca) in Monterey Bay!</sup>
 
