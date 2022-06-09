@@ -8,7 +8,7 @@ sidebar:
 While I am very much an amateur in this area, I find joy in the detailed look we can get at animals and habitats through photography!
 
 <img src="../img/capuchin.jpeg" style="width:100%; border:1px solid; margin-right: 20px" alight="left">
-<sup>A white-faced capuchin (Cebus imitator) extracting juice from a line to apply as a topical anti-parasite medication (a behavior sometimes referred to as "anointing"). Photo taken on the Osa Peninsula, Costa Rica.</sup>
+<sup>A white-faced capuchin (Cebus imitator) extracting juice from a lime to apply as a topical anti-parasite medication (a behavior sometimes referred to as "anointing"). Photo taken on the Osa Peninsula, Costa Rica.</sup>
 
 <br/>
 <br/>
