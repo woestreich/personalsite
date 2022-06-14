@@ -5,7 +5,7 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-For a complete list, see my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ) or [CV](../CV.pdf). Please reach out if you cannot access any of the articles linked below, and I am happy to provide them. I am also happy to share [manuscripts currently in review manuscripts](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author.
+Please reach out if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review manuscripts](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author.
 
 (ˆ indicates undergraduate mentee; \* indicates co-first authors)
 
