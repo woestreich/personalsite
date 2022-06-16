@@ -45,7 +45,7 @@ enableGitInfo = true
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "WillOestreich"
   github = "woestreich"
-  repo = "website_new"
+  repo = "personalsite"
   date_format = "May 27, 2022"
   
   # use a built-in color theme
@@ -107,7 +107,7 @@ enableGitInfo = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "mailto:woestreich.research@gmail.com"
+      url       = "mailto:woestreich@mbari.org"
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
