@@ -12,9 +12,6 @@ Outreach and education, with an emphasis on equitable and inclusive approaches, 
 <img src="../img/museum.jpeg" style="width:49%; border:1px solid; margin-right: 1px" align="right">
 
 <sup>*Images: (Left) "The sounds of Monterey Bay" exhibit at Hopkins Marine Station's 2019 Open House. (Right) The same interactive exhibit at the Pacific Grove Museum of Natural History's "Science of Sound" public event. Image credits: Left - Safari Fang; Right - Elayne Azevado. Videos for this exhibit developed by Dr. John Ryan of MBARI.*</sup>
-
-### Salinas High School - Hopkins Marine Station Internship Program
-Along with my colleague Will Gough, I co-run a longform science engagement program between Salinas High School and Hopkins Marine Station. This program pairs high school students with postdoc and PhD student research mentors at Hopkins for individualized, ~5 month research internships. These hands-on internships culminate in an end-of-program symposium highlighting the outcomes of the students' research projects.
     
 ### University courses
 I have served as a teaching fellow, teaching assistant, and guest lecturer for a range of courses at Stanford University, Foothill College, and Northwestern University. Courses and lectures previously taught include marine conservation, field and statistical methods in ecology, introductory ecology & evolution, sensory ecology, and others. I have also developed and continue to refine an undergraduate course in marine conservation, which emphasizes and explores the intersection of biological, social, and technological dimensions in marine conservation problems. 
@@ -24,3 +21,7 @@ In 2019 and 2020, as a part of the outstanding broader programming offered throu
  
 ### Local community engagement via classroom visits, public talks, and exhibits
 I regularly share the research process and recent findings with diverse audiences, ranging from elementary and middle school classrooms to the broader general public. In particular, I enjoy engaging audiences via interactive exhibits on our research in Monterey Bay, as these tend to facilitate more open and equal interactions and discussion!
+
+
+### Salinas High School - Hopkins Marine Station Internship Program
+Along with my colleague Will Gough, I previously coordinated a longform science engagement program between Salinas High School and Hopkins Marine Station. This program pairs high school students with postdoc and PhD student research mentors at Hopkins for individualized, ~5 month research internships. These internships culminate in an end-of-program symposium highlighting the outcomes of the students' research projects.

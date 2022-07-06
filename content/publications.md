@@ -11,7 +11,7 @@ Please reach out if you cannot access any of the articles linked below, and I am
 
 ### 2022
 
-**Oestreich, WK**, Aiu, KMˆ, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *Accepted in principle; Nature Ecology and Evolution*.
+**Oestreich, WK**, Aiu, KMˆ, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *In Press; Nature Ecology and Evolution*.
 
 **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
   
@@ -67,12 +67,14 @@ Swain, TD, Vega-Perkins, JB, **Oestreich, WK**, Triebold, C, DuBois, E, Henss, J
 
 
 ## In review or submission: 
+
+(ˆ indicates undergraduate mentee; \* indicates co-first authors)
   
 Blondin, H et al. (including **Oestreich, WK**). Land-dependent marine predators face climate-driven impacts on land and at sea. *In revision; Marine Ecology Progress Series*.
   
-Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Wind dance of the ocean giants: Ephemeral wind-driven resource tracking by blue whales. *Submitted; Ecology Letters*.
+Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Wind dance of the ocean giants: Ephemeral wind-driven resource tracking by blue whales. *In review; Ecology Letters*.
 
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
 Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine Science*.
 
-Pearson, Eˆ, **Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In submission; Frontiers in Marine Science*.
+Pearson, Eˆ\*, **Oestreich, WK**\*, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In submission; Frontiers in Marine Science*.
