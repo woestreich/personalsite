@@ -5,7 +5,7 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-Outreach and education, with an emphasis on equitable and inclusive approaches, are central to my personal goals as both a scientist and citizen. Much like with my research, I aim to consistently educate myself in these areas while also putting what I learn into practice. My major education and outreach efforts are detailed below (see [CV](../CV.pdf) for a complete list of outreach activities): 
+Outreach and education, with an emphasis on equitable and inclusive approaches, are central to my personal goals as both a scientist and citizen. Much like with my research, I aim to consistently educate myself in these areas while also putting what I learn into practice. My major education and outreach efforts are detailed below (see [CV](../CV.pdf) for a more complete list): 
 
 <img src="../img/outreach2.jpg" style="width:49%; border:1px solid; margin-right: 1px" align="left">
 

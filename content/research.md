@@ -11,11 +11,11 @@ sidebar:
 ![blue whale](../img/tag1.png)
 <sup>*A blue whale with a bio-logging tag attached to record its vocalizations, foraging behavior, and movements. In combination with passive acoustic monitoring approaches (see below), this can be a powerful tool for understanding the foraging and migration strategies of blue whale individuals and groups. Photo taken under NMFS Permit 16111.*</sup>
 
-Animals' decisions often depend not only on individually-sensed information from the environment, but also socially-shared information from conspecifics. I explore how this link between individual and group-level behavior influences animals' ability to find food, avoid predators, migrate, and reproduce in dynamic and rapidly-changing ecosystems. In this work, I am particularly drawn to migratory marine animals which must cope with the their extreme dynamism, patchiness, and scale of oceanic ecosystems.  
+Animals' decisions often depend not only on individually-sensed information from the environment, but also socially-shared information from conspecifics. I explore how this link between individual and group-level behavior influences animals' ability to find food, avoid predators, migrate, and reproduce in dynamic and rapidly-changing ecosystems. In this work, I am particularly drawn to migratory marine animals which must cope with the extreme dynamism, patchiness, and scale of oceanic ecosystems.  
 
 **Select relevant publications:**
 
-**Oestreich, WK**, Aiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *Accepted in principle; Nature Ecology and Evolution*.
+**Oestreich, WK**, Aiu, KMˆ, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *Nature Ecology and Evolution (In Press)*. *ˆundergraduate mentee*
 
 **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
 
@@ -33,10 +33,9 @@ Bioacoustic approaches provide a unique opportunity to (1) quantify and link ind
 
 **Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, MF, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP. (2020). [Animal-borne metrics enable acoustic detection of blue whale migration](https://www.sciencedirect.com/science/article/pii/S0960982220313312). *Current Biology* 30, 4773-4779.
 
-Cade, DE, Fahlbusch, JA, **Oestreich, WK**, Ryan, J, Calambokidis, J, Findlay, KP, Friedlaender, AS, Hazen, EL, Seakamela, SM, and Goldbogen, JA (2021). [Social exploitation of extensive, ephemeral, environmentally controlled prey patches by super-groups of rorqual whales](https://www.sciencedirect.com/science/article/pii/S000334722100316X). *Animal Behaviour* 182, 251-266.
+Pearson, E\*ˆ, **Oestreich, WK**\*, Ryan, JP, Haver, SM, Gedamke, J, Dziak, RP, and Wall, CC. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In Review*. *\*co-first authorship; ˆundergraduate mentee*
 
-Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
-Baleen whale song as an ecosystem indicator. *In submission*.
+Cade, DE, Fahlbusch, JA, **Oestreich, WK**, Ryan, J, Calambokidis, J, Findlay, KP, Friedlaender, AS, Hazen, EL, Seakamela, SM, and Goldbogen, JA (2021). [Social exploitation of extensive, ephemeral, environmentally controlled prey patches by super-groups of rorqual whales](https://www.sciencedirect.com/science/article/pii/S000334722100316X). *Animal Behaviour* 182, 251-266.
 
 <br/>
 

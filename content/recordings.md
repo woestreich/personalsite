@@ -4,8 +4,8 @@ layout: single
 sidebar: 
   show_post_thumbnail: false
 ---
-
-As noted on my research page, I love bioacoustics! Recording both the sounds that animals make and whole ecosystem "soundscapes" can lead to incredible insight into how animals interact with their environment and one another. Such recordings can be beautiful and enjoyable to listen to as well. Several example recordings that I have taken in a range of ecosystems are included below. *More coming soon*
+*More coming soon, page under construction*<br/><br/>
+As noted on my research page, I love bioacoustics! Recording both the sounds that animals make and whole ecosystem "soundscapes" can lead to incredible insight into how animals interact with their environment and one another. Such recordings can also be beautiful and enjoyable to listen to. Several example recordings that I have taken in a range of ecosystems are included below. 
 
 <video width="100%" controls>
   <source src="../vid/prey.mp4" type="video/mp4">
