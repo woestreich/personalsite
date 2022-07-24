@@ -12,7 +12,7 @@ I love bioacoustics! Recording both the sounds that animals make and whole ecosy
   <source src="../vid/pg_prey_0.1x_hpf.mp4" type="video/mp4">
 </video>
 
-A California Myotis (*Myotis californicus*) foraging at dusk using echolocation. Listen for the drop in frequency and the decreasing interval between calls as this bat approaches its prey. This recording was taken using a Wildlife Acoustics Song Meter Mini Bat in on the Monterey Peninsula (CA, USA) for an ongoing research project. I've slowed down the recording by 10x here to bring it into human hearing range (these echolocation calls are ultrasonic).
+A California Myotis (*Myotis californicus*) foraging at dusk using echolocation. Listen for the drop in frequency and the decreasing interval between calls as this bat approaches its prey (sometimes called the "terminal buzz"). This recording was taken using a Wildlife Acoustics Song Meter Mini Bat in on the Monterey Peninsula (CA, USA) for an ongoing research project. I've slowed down the recording by 10x here to bring it into human hearing range (these echolocation calls are ultrasonic).
 
 <video width="100%" controls>
   <source src="../vid/hoary_ventana_0.1x_hpf.mp4" type="video/mp4">
