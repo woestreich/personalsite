@@ -17,7 +17,7 @@ Please reach out if you cannot access any of the articles linked below, and I am
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
 
-16\.Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
+16\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
 
 15\. Segre, PS, Gough, WT, Roualdes, EA, Cade, DE, Czapanskiy, MF, Fahlbusch, J, Kahane-Rapport, SR, **Oestreich, WK**, Bejder, L, Bierlich, KC, Burrows, JA, Calambokidis, J, Chenoweth, EM, di Clemente, J, Durban, JW, Fearnbach, H, Fish, FE, Friedlaender, AS, Hegelund, P, Johnston, DW, Nowacek, DP, Oudejans, MG, Penry, GS, Potvin, J, Simon, M, Stanworth, A, Straley, JM, Szabo, A, Videsen, SKA, Visser, F, Weir, CR, Wiley, DN, and Goldbogen, JA (2022). [Scaling of maneuvering performance in baleen whales](https://journals.biologists.com/jeb/article/225/5/jeb243224/274595/Scaling-of-maneuvering-performance-in-baleen). *Journal of Experimental Biology* 225, jeb243224.
 
