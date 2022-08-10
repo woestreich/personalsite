@@ -9,7 +9,7 @@ sidebar:
 
 ![diagram](../img/conceptual_diagram_nobg.png)
 
-### I. Linking individual and group-level behavior in dynamic and changing ecosystems
+### I. Drivers of animal behavior across individual & group scales
 ![blue whale](../img/tag1.png)
 <sup>*A blue whale with a bio-logging tag attached to record its vocalizations, foraging behavior, and movements. In combination with passive acoustic monitoring approaches (see below), this can be a powerful tool for understanding the foraging and migration strategies of blue whale individuals and groups. Photo taken under NMFS Permit 16111.*</sup>
 
@@ -25,7 +25,7 @@ Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Wind dance of the ocean gian
 
 <br/>
 
-### II. Bioacoustics as a tool for behavioral ecology in cryptic species and difficult-to-observe ecosystems
+### II. Bioacoustics for cryptic behavioral ecology
 ![song](../img/bm_bp_song.png)
 <sup>*A visual representation (spectrogram) of ~30 minutes of audio recording from [MBARI's MARS hydrophone](https://www.mbari.org/soundscape-listening-room/), showing overlapping blue and fin whale songs. These songs encode remarkable behavioral information, making their detection useful to whales, researchers, and managers of the ecosystems these animals inhabit.*</sup>
 
@@ -41,7 +41,7 @@ Cade, DE, Fahlbusch, JA, **Oestreich, WK**, Ryan, J, Calambokidis, J, Findlay, K
 
 <br/>
 
-### III. Equitable and effective management of dynamic ecosystems for wildlife and human communities
+### III. Effective & equitable natural resource management
 ![SB Island](../img/Musky.jpg)
 <sup>*The Southern California Bight, photographed from Santa Barbara Island. This ocean area, adjacent to the largest port on the U.S. West Coast, supports a remarkable abundance and diversity of both wildlife populations and human uses of marine ecosystems.*</sup>
 
