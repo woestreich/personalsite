@@ -5,7 +5,9 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-## My research program centers on several (often overlapping) themes:
+## My research program centers on three (often overlapping) themes:
+
+![diagram](../img/conceptual_diagram_nobg.png)
 
 ### I. Linking individual and group-level behavior in dynamic and changing ecosystems
 ![blue whale](../img/tag1.png)
