@@ -7,7 +7,7 @@ sidebar:
 
 ## My research program centers on three (often overlapping) themes:
 
-![diagram](../img/conceptual_diagram_nobg.png)
+![diagram](../img/conceptualdiagram_nobg.png)
 
 ### I. Drivers of animal behavior across individual & group scales
 ![blue whale](../img/tag1.png)
