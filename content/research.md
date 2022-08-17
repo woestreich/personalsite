@@ -5,7 +5,7 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-## My research program centers on three (often overlapping) themes:
+## My research program addresses three (often overlapping) themes centered on the study of *Animal behavior in dynamic & changing ecosystems*:
 
 ![diagram](../img/conceptualdiagram_nobg.png)
 
