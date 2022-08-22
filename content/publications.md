@@ -66,7 +66,7 @@ Please reach out if you cannot access any of the articles linked below, and I am
 1\. **Oestreich, WK**, Ganju, NK, Pohlman, JW, and Suttles, SE. (2016). [Colored dissolved organic matter in eutrophic estuaries: relationships between carbon sources and light attenuation](https://bg.copernicus.org/articles/13/583/2016/). *Biogeosciences* 13, 583-595.
 
 
-## In review or submission: 
+## Coming soon: 
   
 Blondin, H et al. (including **Oestreich, WK**). Land-dependent marine predators face climate-driven impacts on land and at sea. *In revision; Marine Ecology Progress Series*.
 
@@ -74,4 +74,10 @@ Blondin, H et al. (including **Oestreich, WK**). Land-dependent marine predators
 
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
 Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine Science*.
+
+Kim, EB, et al. (including **Oestreich, WK**). Soundscape learning: Automating methods for separating fish chorus from soundscape. *In submission; Methods in Ecology and Evolution*.
+
+**Oestreich, WK** et al. Fitness outcomes of socially-dependent migration under environmental variability. *In prep*. 
+
+Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In prep*.
 
