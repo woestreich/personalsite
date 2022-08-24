@@ -75,9 +75,7 @@ Blondin, H et al. (including **Oestreich, WK**). Land-dependent marine predators
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
 Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine Science*.
 
-**Oestreich, WK** et al. Fitness outcomes of socially-dependent migration under environmental variability. *In prep*. 
+Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In submission*.
 
-Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In prep*.
-
-Kim, E, et al. (including **Oestreich, WK**). Soundscape learning: Automating methods for separating fish chorus from soundscape. *In prep*.
+Kim, E, et al. (including **Oestreich, WK**). Soundscape learning: Automating methods for separating fish chorus from soundscape. *In submission*.
 
