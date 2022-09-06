@@ -9,15 +9,17 @@ Please reach out if you cannot access any of the articles linked below, and I am
 
 ### 2022
 
-18\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *Nature Ecology and Evolution (in press)*. ˆundergraduate mentee
+19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). The influence of social cues on timing of animal migrations. *Nature Ecology and Evolution (in press)*. ˆundergraduate mentee
 
-17\. **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
+18\. **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Brief summary:** [here](https://fesummaries.wordpress.com/2022/02/02/blue-whales-flexibly-time-feeding-and-migration-to-match-ocean-conditions/)
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
 
-16\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
+17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
+
+16\. Blondin, H, Armstrong, K, Hazen, E, Santos, BS, **Oestreich, WK**, Haulsee, D, Mikles, CS, Knight, C, Bennett, A, and Crowder, LB (2022). Land-dependent marine species face climate-driven impacts on land and at sea. *Marine Ecology Progress Series (in press)*
 
 15\. Segre, PS, Gough, WT, Roualdes, EA, Cade, DE, Czapanskiy, MF, Fahlbusch, J, Kahane-Rapport, SR, **Oestreich, WK**, Bejder, L, Bierlich, KC, Burrows, JA, Calambokidis, J, Chenoweth, EM, di Clemente, J, Durban, JW, Fearnbach, H, Fish, FE, Friedlaender, AS, Hegelund, P, Johnston, DW, Nowacek, DP, Oudejans, MG, Penry, GS, Potvin, J, Simon, M, Stanworth, A, Straley, JM, Szabo, A, Videsen, SKA, Visser, F, Weir, CR, Wiley, DN, and Goldbogen, JA (2022). [Scaling of maneuvering performance in baleen whales](https://journals.biologists.com/jeb/article/225/5/jeb243224/274595/Scaling-of-maneuvering-performance-in-baleen). *Journal of Experimental Biology* 225, jeb243224.
 
@@ -67,10 +69,8 @@ Please reach out if you cannot access any of the articles linked below, and I am
 
 
 ## Coming soon: 
-  
-Blondin, H et al. (including **Oestreich, WK**). Land-dependent marine predators face climate-driven impacts on land and at sea. *In revision; Marine Ecology Progress Series*.
 
-ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In review; Frontiers in Marine Science*. ˆundergraduate mentee; \*co-lead authors, equal contribution
+ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision; Frontiers in Marine Science*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
 Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine Science*.
