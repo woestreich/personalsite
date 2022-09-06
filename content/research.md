@@ -21,7 +21,7 @@ Animals' decisions often depend not only on individually-sensed information from
 
 **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
 
-Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al. Wind dance of the ocean giants: Ephemeral wind-driven resource tracking by blue whales. *In review*.
+Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al (2022). Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
 
 <br/>
 
@@ -35,7 +35,7 @@ Bioacoustic approaches provide a unique opportunity to (1) quantify and link ind
 
 **Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, MF, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP. (2020). [Animal-borne metrics enable acoustic detection of blue whale migration](https://www.sciencedirect.com/science/article/pii/S0960982220313312). *Current Biology* 30, 4773-4779.
 
-Pearson, E\*ˆ, **Oestreich, WK**\*, Ryan, JP, Haver, SM, Gedamke, J, Dziak, RP, and Wall, CC. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In Review*. *\*co-first authorship; ˆundergraduate mentee*
+Pearson, E\*ˆ, **Oestreich, WK**\*, Ryan, JP, Haver, SM, Gedamke, J, Dziak, RP, and Wall, CC. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *Frontiers in Marine Science (in revision)*. *\*co-first authorship; ˆundergraduate mentee*
 
 Cade, DE, Fahlbusch, JA, **Oestreich, WK**, Ryan, J, Calambokidis, J, Findlay, KP, Friedlaender, AS, Hazen, EL, Seakamela, SM, and Goldbogen, JA (2021). [Social exploitation of extensive, ephemeral, environmentally controlled prey patches by super-groups of rorqual whales](https://www.sciencedirect.com/science/article/pii/S000334722100316X). *Animal Behaviour* 182, 251-266.
 
