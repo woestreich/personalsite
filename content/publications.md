@@ -15,7 +15,7 @@ Please reach out if you cannot access any of the articles linked below, and I am
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Brief summary:** [here](https://fesummaries.wordpress.com/2022/02/02/blue-whales-flexibly-time-feeding-and-migration-to-match-ocean-conditions/)
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [SF Chronicle](https://www.sfchronicle.com/climate/article/blue-whales-california-17400834.php) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
 
 17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
 
