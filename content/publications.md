@@ -77,5 +77,5 @@ Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine
 
 Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In submission*.
 
-Kim, E, et al. (including **Oestreich, WK**). Soundscape learning: Automating methods for separating fish chorus from soundscape. *In submission*.
+Kim, E, et al. (including **Oestreich, WK**). SoundScape Learning (SSL): An Automatic Method for Separating Fish Chorus in Complex Marine Soundscapes. *In submission*.
 
