@@ -5,7 +5,7 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author. A complete list is also available on my [CV](../CV.pdf).
+Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author. A complete list is also available on my CV (see icons at the very bottom of this page).
 
 ### 2022
 
