@@ -70,12 +70,16 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 ## Coming soon: 
 
-ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision; Frontiers in Marine Science*. ˆundergraduate mentee; \*co-lead authors, equal contribution
+ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision; Frontiers in Remote Sensing*. ˆundergraduate mentee; \*co-lead authors, equal contribution
+
+Kim, E, et al. (including **Oestreich, WK**). SoundScape Learning (SSL): An Automatic Method for Separating Fish Chorus in Complex Marine Soundscapes. *In review*.
 
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
-Baleen whale song as an ecosystem indicator. *In submission; Frontiers in Marine Science*.
+Baleen whale song as an ecosystem indicator. *In submission*.
 
 Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In submission*.
 
-Kim, E, et al. (including **Oestreich, WK**). SoundScape Learning (SSL): An Automatic Method for Separating Fish Chorus in Complex Marine Soundscapes. *In submission*.
+Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale mor-
+phology, life history, and regional oceanography in three productive coastal ecosystems. *In submission*
+
 
