@@ -17,11 +17,11 @@ Animals' decisions often depend not only on individually-sensed information from
 
 **Select relevant publications:**
 
-**Oestreich, WK**, Aiu, KMˆ, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. The influence of social cues on timing of animal migrations. *Nature Ecology and Evolution (In Press)*. *ˆundergraduate mentee*
+**Oestreich, WK**, Aiu, KMˆ, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B. [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution*. *ˆundergraduate mentee*
 
 **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
 
-Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al (2022). Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
+Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, et al (2022). [Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales](https://onlinelibrary.wiley.com/doi/10.1111/ele.14116). *Ecology Letters* 25, 2435-2447.
 
 <br/>
 

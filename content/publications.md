@@ -5,11 +5,11 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author. A complete list is also available on my CV (see icons at the very bottom of this page).
+Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author. A complete list is also available on my [CV](https://willoestreich.netlify.app/files/cv.pdf).
 
 ### 2022
 
-19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). The influence of social cues on timing of animal migrations. *Nature Ecology and Evolution (in press)*. ˆundergraduate mentee
+19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution*. ˆundergraduate mentee
 
 18\. **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
   
@@ -17,9 +17,12 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [SF Chronicle](https://www.sfchronicle.com/climate/article/blue-whales-california-17400834.php) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
 
-17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecology Letters (in press)*.
+17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). [Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales](https://onlinelibrary.wiley.com/doi/10.1111/ele.14116). *Ecology Letters* 25, 2435-2447.
 
-16\. Blondin, H, Armstrong, K, Hazen, E, Santos, BS, **Oestreich, WK**, Haulsee, D, Mikles, CS, Knight, C, Bennett, A, and Crowder, LB (2022). Land-dependent marine species face climate-driven impacts on land and at sea. *Marine Ecology Progress Series (in press)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:**
+[MBARI](https://www.mbari.org/blue-whale-foraging-ecology/) | [Monterey County Weekly](https://mailchi.mp/mcweekly/2022-10-25?e=8b0461f853)
+
+16\. Blondin, H, Armstrong, K, Hazen, E, Santos, BS, **Oestreich, WK**, Haulsee, D, Mikles, CS, Knight, C, Bennett, A, and Crowder, LB (2022). [Land-dependent marine species face climate-driven impacts on land and at sea](https://www.int-res.com/abstracts/meps/v699/p181-198/). *Marine Ecology Progress Series* 699, 181-198.
 
 15\. Segre, PS, Gough, WT, Roualdes, EA, Cade, DE, Czapanskiy, MF, Fahlbusch, J, Kahane-Rapport, SR, **Oestreich, WK**, Bejder, L, Bierlich, KC, Burrows, JA, Calambokidis, J, Chenoweth, EM, di Clemente, J, Durban, JW, Fearnbach, H, Fish, FE, Friedlaender, AS, Hegelund, P, Johnston, DW, Nowacek, DP, Oudejans, MG, Penry, GS, Potvin, J, Simon, M, Stanworth, A, Straley, JM, Szabo, A, Videsen, SKA, Visser, F, Weir, CR, Wiley, DN, and Goldbogen, JA (2022). [Scaling of maneuvering performance in baleen whales](https://journals.biologists.com/jeb/article/225/5/jeb243224/274595/Scaling-of-maneuvering-performance-in-baleen). *Journal of Experimental Biology* 225, jeb243224.
 
@@ -68,18 +71,17 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 1\. **Oestreich, WK**, Ganju, NK, Pohlman, JW, and Suttles, SE. (2016). [Colored dissolved organic matter in eutrophic estuaries: relationships between carbon sources and light attenuation](https://bg.copernicus.org/articles/13/583/2016/). *Biogeosciences* 13, 583-595.
 
 
-## Coming soon: 
+## Coming soon (only manuscripts with available drafts listed here): 
 
 ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision; Frontiers in Remote Sensing*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 
 Kim, E, et al. (including **Oestreich, WK**). SoundScape Learning (SSL): An Automatic Method for Separating Fish Chorus in Complex Marine Soundscapes. *In review*.
 
 Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
-Baleen whale song as an ecosystem indicator. *In submission*.
+Baleen whale song as an ecosystem indicator. *In prep*.
 
-Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In submission*.
+Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In prep*.
 
-Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale mor-
-phology, life history, and regional oceanography in three productive coastal ecosystems. *In submission*
+Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *In prep*.
 
 
