@@ -20,7 +20,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). [Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales](https://onlinelibrary.wiley.com/doi/10.1111/ele.14116). *Ecology Letters* 25, 2435-2447.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:**
-[MBARI](https://www.mbari.org/blue-whale-foraging-ecology/) | [Monterey County Weekly](https://mailchi.mp/mcweekly/2022-10-25?e=8b0461f853)
+[MBARI](https://www.mbari.org/blue-whale-foraging-ecology/) | [Eos](https://eos.org/articles/scientists-tune-in-to-blue-whale-feeding-rhythms) | [Monterey County Weekly](https://mailchi.mp/mcweekly/2022-10-25?e=8b0461f853)
 
 16\. Blondin, H, Armstrong, K, Hazen, E, Santos, BS, **Oestreich, WK**, Haulsee, D, Mikles, CS, Knight, C, Bennett, A, and Crowder, LB (2022). [Land-dependent marine species face climate-driven impacts on land and at sea](https://www.int-res.com/abstracts/meps/v699/p181-198/). *Marine Ecology Progress Series* 699, 181-198.
 
