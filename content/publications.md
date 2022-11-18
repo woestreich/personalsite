@@ -78,7 +78,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 ## Coming soon (only manuscripts with available drafts listed here): 
 
-ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision; Frontiers in Remote Sensing*. ˆundergraduate mentee; \*co-lead authors, equal contribution
+ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 
 Kim, E, et al. (including **Oestreich, WK**). SoundScape Learning (SSL): An Automatic Method for Separating Fish Chorus in Complex Marine Soundscapes. *In review*.
 
