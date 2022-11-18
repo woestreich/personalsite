@@ -4,7 +4,7 @@ layout: single
 sidebar: 
   show_post_thumbnail: false
 ---
-I love bioacoustics! Recording both the sounds that animals make and whole ecosystem "soundscapes" can lead to incredible insight into how animals interact with their environment and one another. These recordings can also be beautiful. Several example recordings that I've made of different species and behaviors are included below. They are visualized as scrolling spectrograms showing frequency vs. time, with color intensity indicating sound amplitude.
+Recording both the sounds that animals make and whole ecosystem "soundscapes" can lead to incredible insight into how animals interact with their environment and one another. These recordings can also be beautiful. Several example recordings that I've made of different species and behaviors are included below. They are visualized as scrolling spectrograms showing frequency vs. time, with color intensity indicating sound amplitude.
 
 *More coming soon, page under construction*<br/><br/>
 

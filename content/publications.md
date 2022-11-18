@@ -7,6 +7,11 @@ sidebar:
 
 Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#in-review-or-submission) on which I am the lead author. A complete list is also available on my [CV](https://willoestreich.netlify.app/files/cv.pdf).
 
+<img src="../img/EL_cover.jpg" style="width:40%; border:1px solid; margin-right: 20px" alight="left">
+
+<br/>
+<br/>
+
 ### 2022
 
 19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution*. ˆundergraduate mentee
@@ -17,7 +22,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [MBARI](https://www.mbari.org/soundscape-blue-whale-behavior/) | [SF Chronicle](https://www.sfchronicle.com/climate/article/blue-whales-california-17400834.php) | [Monterey County Weekly](https://www.montereycountyweekly.com/opinion/mcnow_intro/new-research-reveals-how-blue-whales-can-adapt-to-their-environment/article_175a142a-95d1-11ec-a914-c742828068cd.html) | [Good Times Santa Cruz](https://www.goodtimes.sc/tracking-the-sounds-of-blue-whales/)
 
-17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). [Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales](https://onlinelibrary.wiley.com/doi/10.1111/ele.14116). *Ecology Letters* 25, 2435-2447.
+17\. Ryan, JP, Benoit-Bird, K, **Oestreich, WK**, Goldbogen, J, Leary, P, Smith, K, Waluk, C, Cade, D, Fahlbusch, J, Southall, B, Joseph, J, Margolina, T, Calambokidis, J, and DeVogelaere, A (2022). [Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales](https://onlinelibrary.wiley.com/doi/10.1111/ele.14116). *Ecology Letters* 25, 2435-2447. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:**
 [MBARI](https://www.mbari.org/blue-whale-foraging-ecology/) | [Eos](https://eos.org/articles/scientists-tune-in-to-blue-whale-feeding-rhythms) | [Monterey County Weekly](https://mailchi.mp/mcweekly/2022-10-25?e=8b0461f853)
