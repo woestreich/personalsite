@@ -14,7 +14,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 ### 2022
 
-19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution*. ˆundergraduate mentee
+19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution* 6, 1617–1625. ˆundergraduate mentee
 
 18\. **Oestreich, WK**, Abrahms, B, McKenna, MF, Goldbogen, JA, Crowder, LB, and Ryan, JP (2022). [Acoustic signature reveals blue whales tune life history transitions to oceanographic conditions](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14013). *Functional Ecology* 36, 882-895.
   
