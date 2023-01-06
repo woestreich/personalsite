@@ -12,7 +12,8 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 <br/>
 <br/>
 
-### 2022
+**2022**
+<br/>
 
 19\. **Oestreich, WK**, ˆAiu, KM, Crowder, LB, McKenna, MF, Berdahl, AM, & Abrahms, B (2022). [The influence of social cues on timing of animal migrations](https://www.nature.com/articles/s41559-022-01866-0). *Nature Ecology and Evolution* 6, 1617–1625. ˆundergraduate mentee
 
@@ -31,7 +32,9 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 15\. Segre, PS, Gough, WT, Roualdes, EA, Cade, DE, Czapanskiy, MF, Fahlbusch, J, Kahane-Rapport, SR, **Oestreich, WK**, Bejder, L, Bierlich, KC, Burrows, JA, Calambokidis, J, Chenoweth, EM, di Clemente, J, Durban, JW, Fearnbach, H, Fish, FE, Friedlaender, AS, Hegelund, P, Johnston, DW, Nowacek, DP, Oudejans, MG, Penry, GS, Potvin, J, Simon, M, Stanworth, A, Straley, JM, Szabo, A, Videsen, SKA, Visser, F, Weir, CR, Wiley, DN, and Goldbogen, JA (2022). [Scaling of maneuvering performance in baleen whales](https://journals.biologists.com/jeb/article/225/5/jeb243224/274595/Scaling-of-maneuvering-performance-in-baleen). *Journal of Experimental Biology* 225, jeb243224.
 
-### 2021
+<br/>
+
+**2021**
   
 14\. \*Chapman, MS, \***Oestreich, WK**, Frawley, TH, Boettiger, C, Diver, S, Santos, BS, Scoville, C, Armstrong, K, Blondin, H, Chand, K, Haulsee, DE, Knight, CJ, and Crowder, LB. (2021). [Promoting equity in the use of algorithms for high seas conservation](https://www.sciencedirect.com/science/article/pii/S259033222100292X). *One Earth* 4, 790-794.  \*co-lead authors, equal contribution
   
@@ -51,7 +54,9 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Press:** [Stanford Earth](https://earth.stanford.edu/news/small-scale-fisheries-offer-strategies-resilience-face-climate-change#gs.6yn8h2)
   
-### 2020
+<br/>
+
+**2020**
 
 7\. **Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, MF, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP. (2020). [Animal-borne metrics enable acoustic detection of blue whale migration](https://www.sciencedirect.com/science/article/pii/S0960982220313312). *Current Biology* 30, 4773-4779.
   
@@ -61,7 +66,9 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
   
 5\. Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM. (2020). [Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary](https://asa.scitation.org/doi/abs/10.1121/10.0001726). *Journal of the Acoustical Society of America* 148, 845-858.
 
-### 2019 and earlier
+<br/>
+
+**2019 and earlier**
 
 4\. **Oestreich, WK**, Frawley, TH, Mansfield, EJ, Green, KM, Green, SJ, Naggea, J, Selgrath, JC, Swanson, SS, Urteaga, J, White, TD, and Crowder, LB. (2019). [The impact of environmental change on small-scale fishing communities: Moving beyond adaptive capacity to community response](https://www.sciencedirect.com/science/article/pii/B9780128179451000277) in Cisneros-Montemayor, AM, Cheung, W, and Ota, Y (ed). *Predicting future oceans: Sustainability of social-ecological systems under climate change*. Elsevier. New York, NY.
   
@@ -75,8 +82,12 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
   
 1\. **Oestreich, WK**, Ganju, NK, Pohlman, JW, and Suttles, SE. (2016). [Colored dissolved organic matter in eutrophic estuaries: relationships between carbon sources and light attenuation](https://bg.copernicus.org/articles/13/583/2016/). *Biogeosciences* 13, 583-595.
 
+<br/>
+<br/>
 
-## Coming soon (only manuscripts with available drafts listed here): 
+**Coming soon:** 
+<br/>
+(only manuscripts with available drafts listed here)
 
 ˆ\*Pearson, E, \***Oestreich, WK**, et al. Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *In revision*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 

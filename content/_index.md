@@ -6,7 +6,7 @@ description:  I am a postdoctoral fellow at the [Monterey Bay Aquarium Research 
 
 image_left: true
 images:
-- img/combo.png
+- img/combo2.png
 show_action_link: true
 show_social_links: true
 subtitle: Behavioral Ecology | Bioacoustics | Oceanography | Conservation Science
