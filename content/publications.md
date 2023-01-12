@@ -14,6 +14,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 **2023**
 <br/>
+
 21\. ˆ\*Pearson, E, \***Oestreich, WK**, Ryan, J, Haver, SM, Gedamke, J, Dziak, RP, & Wall, CC (2023). Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *Frontiers in Remote Sensing (Accepted)*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 
 20\. Kim, EB, Frasier, KE, McKenna, MF, Kok, ACM, Peavey-Reeves, LE, **Oestreich, WK**, Arrieta, G, Wiggins, S, & Baumann-Pickering, S (2023). SoundScape Learning: an automatic method for separating fish chorus in marine soundscapes. *Journal of the Acoustical Society of America (Accepted)*.
