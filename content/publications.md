@@ -96,7 +96,6 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 
 **Coming soon:** 
 <br/>
-(only manuscripts with available drafts listed here)
 
 Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *Submitted*.
 
