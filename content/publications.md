@@ -98,11 +98,6 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 <br/>
 (only manuscripts with available drafts listed here)
 
-Ryan, JP, **Oestreich, WK**, et al. Foraging ecology in the mysticete symphony:
-Baleen whale song as an ecosystem indicator. *In prep*.
-
-Dodson, S, **Oestreich, WK** et al. Animal communication enables collective migration in a dynamic seascape. *In prep*.
-
-Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *In prep*.
+Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *Submitted*.
 
 
