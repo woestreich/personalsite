@@ -15,9 +15,9 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 **2023**
 <br/>
 
-21\. ˆ\*Pearson, E, \***Oestreich, WK**, Ryan, J, Haver, SM, Gedamke, J, Dziak, RP, & Wall, CC (2023). Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean. *Frontiers in Remote Sensing (Accepted)*. ˆundergraduate mentee; \*co-lead authors, equal contribution
+21\. ˆ\*Pearson, E, \***Oestreich, WK**, Ryan, J, Haver, SM, Gedamke, J, Dziak, RP, & Wall, CC (2023). [Widespread passive acoustic monitoring reveals spatio-temporal patterns of blue and fin whale song vocalizations in the Northeast Pacific Ocean](https://www.frontiersin.org/articles/10.3389/frsen.2023.994518/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE). *Frontiers in Remote Sensing*. ˆundergraduate mentee; \*co-lead authors, equal contribution
 
-20\. Kim, EB, Frasier, KE, McKenna, MF, Kok, ACM, Peavey-Reeves, LE, **Oestreich, WK**, Arrieta, G, Wiggins, S, & Baumann-Pickering, S (2023). SoundScape Learning: an automatic method for separating fish chorus in marine soundscapes. *Journal of the Acoustical Society of America (Accepted)*.
+20\. Kim, EB, Frasier, KE, McKenna, MF, Kok, ACM, Peavey-Reeves, LE, **Oestreich, WK**, Arrieta, G, Wiggins, S, & Baumann-Pickering, S (2023). [SoundScape Learning: an automatic method for separating fish chorus in marine soundscapes](https://asa.scitation.org/doi/10.1121/10.0017432). *Journal of the Acoustical Society of America*.
 
 <br/>
 
@@ -97,6 +97,8 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 **Coming soon:** 
 <br/>
 
-Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *Submitted*.
+Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *In review; Proceedings of the Royal Society B: Biological Sciences*.
+
+
 
 
