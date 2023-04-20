@@ -5,7 +5,7 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). I am also happy to share [manuscripts currently in review](https://willoestreich.netlify.app/publications/#Coming-Soon) on which I am the lead author. A complete list is also available on my [CV](https://willoestreich.netlify.app/files/cv.pdf).
+Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access any of the articles linked below, and I am happy to provide them. Many are also accessible via my [google scholar page](https://scholar.google.com/citations?hl=en&user=QZnw81AAAAAJ). A complete list is also available on my [CV](https://willoestreich.netlify.app/files/cv.pdf).
 
 <img src="../img/EL_cover.jpg" style="width:40%; border:1px solid; margin-right: 20px" alight="left">
 
@@ -95,7 +95,7 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 <br/>
 
 **Coming soon:**   
-*(happy to share full drafts for papers on which I am the lead author!)*
+*(happy to share full drafts of papers on which I am the lead author!)*
 <br/>
 
 Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *In review; Integrative Organismal Biology*.
