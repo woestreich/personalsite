@@ -98,10 +98,9 @@ Please [reach out](mailto:woestreich.research@gmail.com) if you cannot access an
 *(happy to share full drafts of papers on which I am the lead author!)*
 <br/>
 
+**Oestreich, WK** et al. Acoustic evidence for seasonal resource-tracking migration by a top predator of the deep sea. *Submitted*. [PREPRINT](https://ecoevorxiv.org/repository/view/5299/)
+
 Barlow, D, Bierlich, KC, **Oestreich, WK**, et al. Shaped by their environment: Comparing blue whale morphology, life history, and regional oceanography in three productive coastal ecosystems. *In review; Integrative Organismal Biology*.
-
-**Oestreich, WK** et al. Acoustic evidence for seasonal resource-tracking migration by a top predator of the deep sea. *In submission.*
-
 
 
 
